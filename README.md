@@ -52,7 +52,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src="src/assets/pokemon_demo1.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src="src/assets/pokemon_demo2.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src="src/assets/pokemon_demo3.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="src/assets/pokemon_demo4.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
